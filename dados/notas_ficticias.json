@@ -1,0 +1,57 @@
+[
+  {
+    "nota": {"numero": "2026001845", "prestador_nome": "Prestadora Demonstração Alfa", "prestador_cnpj": "71.456.069/0001-72",
+             "emissao": "2026-11-03", "codigo_servico": "17.19", "municipio_servico": "Aracaju/SE",
+             "valor_servicos": "12000.00", "iss_retido": "600.00", "irrf_retido": "180.00", "csrf_retido": "558.00",
+             "valor_liquido": "10662.00"},
+    "lancamento": {"documento": "2026001845", "fornecedor_cnpj": "71.456.069/0001-72", "competencia": "2026-11",
+                   "valor_bruto": "12000.00", "valor_liquido": "10662.00"}
+  },
+  {
+    "nota": {"numero": "418", "prestador_nome": "Construtora Demonstração Beta", "prestador_cnpj": "71.777.186/0001-38",
+             "emissao": "2026-11-04", "codigo_servico": "07.02", "municipio_servico": "Nossa Senhora do Socorro/SE",
+             "valor_servicos": "48500.00", "iss_retido": "1455.00", "inss_retido": "5335.00",
+             "valor_liquido": "41710.00"},
+    "lancamento": {"documento": "418", "fornecedor_cnpj": "71.777.186/0001-38", "competencia": "2026-11",
+                   "valor_bruto": "48500.00", "valor_liquido": "41710.00"}
+  },
+  {
+    "nota": {"numero": "9027", "prestador_nome": "Serviços Gerais Demonstração Gama", "prestador_cnpj": "81.150.472/0001-22",
+             "emissao": "2026-11-05", "codigo_servico": "07.10", "municipio_servico": "Aracaju/SE",
+             "valor_servicos": "8400.00", "iss_retido": "252.00", "inss_retido": "924.00", "irrf_retido": "84.00",
+             "csrf_retido": "390.60", "valor_liquido": "6749.40"},
+    "lancamento": {"documento": "9027", "fornecedor_cnpj": "81.150.472/0001-22", "competencia": "2026-11",
+                   "valor_bruto": "8400.00", "valor_liquido": "6749.40"}
+  },
+  {
+    "nota": {"numero": "77", "prestador_nome": "Tecnologia Demonstração Delta", "prestador_cnpj": "75.287.517/0001-02",
+             "emissao": "2026-11-02", "codigo_servico": "01.07", "municipio_servico": "Salvador/BA",
+             "valor_servicos": "3200.00", "iss_retido": "160.00", "irrf_retido": "48.00", "csrf_retido": "148.80",
+             "valor_liquido": "2843.20"},
+    "lancamento": {"documento": "77", "fornecedor_cnpj": "75.794.038/0001-82", "competencia": "2026-11",
+                   "valor_bruto": "3200.00", "valor_liquido": "2843.20"}
+  },
+  {
+    "nota": {"numero": "2026001790", "prestador_nome": "Prestadora Demonstração Alfa", "prestador_cnpj": "71.456.069/0001-72",
+             "emissao": "2026-10-29", "codigo_servico": "17.19", "municipio_servico": "Aracaju/SE",
+             "valor_servicos": "450.00", "iss_retido": "22.50", "csrf_retido": "20.93", "valor_liquido": "406.57"},
+    "lancamento": {"documento": "2026001790", "fornecedor_cnpj": "71.456.069/0001-72", "competencia": "2026-11",
+                   "valor_bruto": "450.00", "valor_liquido": "406.57"}
+  },
+  {
+    "nota": {"numero": "421", "prestador_nome": "Construtora Demonstração Beta", "prestador_cnpj": "71.777.186/0001-38",
+             "emissao": "2026-11-06", "codigo_servico": "07.02", "municipio_servico": "Nossa Senhora do Socorro/SE",
+             "valor_servicos": "15000.00", "iss_retido": "450.00", "inss_retido": "1650.00",
+             "valor_liquido": "12900.00"},
+    "lancamento": {"documento": "421", "fornecedor_cnpj": "71.777.186/0001-38", "competencia": "2026-11",
+                   "valor_bruto": "15000.00", "valor_liquido": "13350.00"}
+  },
+  {
+    "nota": {"numero": "9031", "prestador_nome": "Serviços Gerais Demonstração Gama", "prestador_cnpj": "81.150.472/0001-22",
+             "emissao": "2026-11-06", "codigo_servico": "07.10", "municipio_servico": "Aracaju/SE",
+             "valor_servicos": "1000.00", "situacao": "CANCELADA", "iss_retido": "50.00", "inss_retido": "110.00",
+             "csrf_retido": "46.50", "valor_liquido": "793.50"},
+    "lancamento": {"documento": "9031", "fornecedor_cnpj": "81.150.472/0001-22", "competencia": "2026-11",
+                   "valor_bruto": "1000.00", "valor_liquido": "793.50"}
+  }
+]

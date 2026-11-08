@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 546" width="900" height="546" role="img" aria-label="python -m conferencia">
+  <rect x=".5" y=".5" width="899" height="545" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x=".5" y=".5" width="899" height="34" rx="12" fill="#161b22"/>
+  <rect x=".5" y="22" width="899" height="13" fill="#161b22"/>
+  <line x1="0" y1="35" x2="900" y2="35" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="450.0" y="22" text-anchor="middle" fill="#7d8590" style="font:500 12px 'Segoe UI',Helvetica,Arial,sans-serif">python -m conferencia</text>
+  <g style="font:13px 'JetBrains Mono','Cascadia Mono',Consolas,'Courier New',monospace">
+  <text x="24" y="58" xml:space="preserve"><tspan fill="#e6edf3">$ python -m conferencia</tspan></text>
+<text x="24" y="79" xml:space="preserve"><tspan fill="#7ee787">LANÇAR   </tspan><tspan fill="#e6edf3"> nota 2026001845  Prestadora Demonstração Alfa        R$ 12.000,00</tspan></text>
+<text x="24" y="100" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_2026001845.pdf</tspan></text>
+<text x="24" y="121" xml:space="preserve"><tspan fill="#7ee787">LANÇAR   </tspan><tspan fill="#e6edf3"> nota 418         Construtora Demonstração Beta       R$ 48.500,00</tspan></text>
+<text x="24" y="142" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_418.pdf</tspan></text>
+<text x="24" y="163" xml:space="preserve"><tspan fill="#ff7b72">DEVOLVER </tspan><tspan fill="#e6edf3"> nota 9027        Serviços Gerais Demonstração Gama    R$ 8.400,00</tspan></text>
+<text x="24" y="184" xml:space="preserve"><tspan fill="#e6edf3">          </tspan><tspan fill="#ff7b72">↳ ISS retido R$ 252,00; o esperado para o serviço 07.10 é R$ 420,00.</tspan></text>
+<text x="24" y="205" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_9027.pdf</tspan></text>
+<text x="24" y="226" xml:space="preserve"><tspan fill="#ff7b72">DEVOLVER </tspan><tspan fill="#e6edf3"> nota 77          Tecnologia Demonstração Delta        R$ 3.200,00</tspan></text>
+<text x="24" y="247" xml:space="preserve"><tspan fill="#e6edf3">          </tspan><tspan fill="#ff7b72">↳ O prestador da nota (75.287.517/0001-02) não é o fornecedor do lançamento (75.794.038/0001-82).</tspan></text>
+<text x="24" y="268" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_77.pdf</tspan></text>
+<text x="24" y="289" xml:space="preserve"><tspan fill="#7ee787">LANÇAR   </tspan><tspan fill="#e6edf3"> nota 2026001790  Prestadora Demonstração Alfa           R$ 450,00</tspan></text>
+<text x="24" y="310" xml:space="preserve"><tspan fill="#e6edf3">          </tspan><tspan fill="#f2cc60">↳ Nota emitida em 10/2026, lançada na competência 11/2026.</tspan></text>
+<text x="24" y="331" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_2026001790.pdf</tspan></text>
+<text x="24" y="352" xml:space="preserve"><tspan fill="#ff7b72">DEVOLVER </tspan><tspan fill="#e6edf3"> nota 421         Construtora Demonstração Beta       R$ 15.000,00</tspan></text>
+<text x="24" y="373" xml:space="preserve"><tspan fill="#e6edf3">          </tspan><tspan fill="#ff7b72">↳ O líquido lançado (R$ 13.350,00) não fecha com a nota menos as retenções (R$ 12.900,00).</tspan></text>
+<text x="24" y="394" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_421.pdf</tspan></text>
+<text x="24" y="415" xml:space="preserve"><tspan fill="#ff7b72">DEVOLVER </tspan><tspan fill="#e6edf3"> nota 9031        Serviços Gerais Demonstração Gama    R$ 1.000,00</tspan></text>
+<text x="24" y="436" xml:space="preserve"><tspan fill="#e6edf3">          </tspan><tspan fill="#ff7b72">↳ A nota 9031 está cancelada na prefeitura.</tspan></text>
+<text x="24" y="457" xml:space="preserve"><tspan fill="#7d8590">          saida/pareceres/parecer_9031.pdf</tspan></text>
+<text x="24" y="478" xml:space="preserve"></text>
+<text x="24" y="499" xml:space="preserve"><tspan fill="#e6edf3">3 para lançar · 4 para devolver</tspan></text>
+  </g>
+</svg>

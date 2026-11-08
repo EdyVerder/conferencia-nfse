@@ -1,0 +1,17 @@
+{
+  "_aviso": "Alíquotas ilustrativas para a demonstração. Confira a legislação do seu município e do seu regime.",
+  "iss": {
+    "Aracaju/SE": 0.05,
+    "Nossa Senhora do Socorro/SE": 0.03,
+    "Salvador/BA": 0.05
+  },
+  "inss": 0.11,
+  "csrf": 0.0465,
+  "dispensa_ate": 10.00,
+  "servicos": {
+    "07.02": {"descricao": "Execução de obras de construção civil", "cessao_mao_de_obra": true, "irrf": 0.0, "csrf": false},
+    "07.10": {"descricao": "Limpeza, manutenção e conservação", "cessao_mao_de_obra": true, "irrf": 0.01, "csrf": true},
+    "17.19": {"descricao": "Contabilidade e auditoria", "cessao_mao_de_obra": false, "irrf": 0.015, "csrf": true},
+    "01.07": {"descricao": "Suporte técnico em informática", "cessao_mao_de_obra": false, "irrf": 0.015, "csrf": true}
+  }
+}
